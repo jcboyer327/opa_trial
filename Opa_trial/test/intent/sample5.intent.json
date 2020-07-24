@@ -1,0 +1,5 @@
+{
+  "utterance": "Opa Snack",
+  "intent_type": "OpaSnack.intent",
+  "expected_dialog": "opa.snack"
+}

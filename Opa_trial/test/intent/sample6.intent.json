@@ -1,0 +1,5 @@
+{
+  "utterance": "Let's move",
+  "intent_type": "HowAreYou.intent",
+  "expected_dialog": "opa.snack"
+}
